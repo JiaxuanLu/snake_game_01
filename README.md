@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Retro Arcade Snake Game 🐍
 
-# Run and deploy your AI Studio app
+A modern, web-based reimagining of the classic **Snake** game, built with a sleek "Retro Arcade" aesthetic. This project demonstrates modern front-end development techniques, featuring a responsive UI and smooth gameplay mechanics.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/c2bebeb1-4174-400f-b418-cd2144dc3445
+### 🎮 Key Features
 
-## Run Locally
+* **Multiple Difficulty Levels:** Choose between Easy (简单), Normal (普通), Hard (困难), and Insane (疯狂).
+* **Responsive Controls:** Supports both **Arrow keys** and **WASD** for movement, plus **Spacebar** for pausing.
+* **Real-time Scoring:** Track your current score and aim to beat the high score.
+* **Bilingual Support:** Integrated English and Chinese language toggle.
+* **Modern UI:** A clean, neon-inspired arcade interface with smooth transitions.
 
-**Prerequisites:**  Node.js
+---
 
+### 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* **HTML5 & CSS3:** For the game structure and stylish arcade-themed styling.
+* **JavaScript (ES6+):** Handling the game logic, snake movement, and collision detection.
+* **Modern Frontend Principles:** Built with a state-driven approach to ensure a smooth UI experience.
